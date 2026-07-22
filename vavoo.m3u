@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="Turkey",24 HABER HD+ SDf .b
+#EXTINF:-1 group-title="Turkey",24 HABER HD+ SDfd .b
 #EXTVLCOPT:network-caching=4000
 #EXTVLCOPT:http-referrer=https://vavoo.to
 https://prowatchd.erdemtatar434.workers.dev/?url=https://vavoo.to/vavoo-iptv/play/3828793616b62b9cc5834c|http-header-fields=Referer=https://vavoo.to
